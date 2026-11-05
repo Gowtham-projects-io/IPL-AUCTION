@@ -1,0 +1,416 @@
+[
+  {
+    "team_id": "CSK",
+    "name": "Ruturaj Gaikwad",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "CSK",
+    "name": "Ravindra Jadeja",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "CSK",
+    "name": "Shivam Dube",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 12.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "CSK",
+    "name": "Matheesha Pathirana",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "retention_slab": "Retention 4",
+    "retention_cost_cr": 13.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "CSK",
+    "name": "MS Dhoni",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "MI",
+    "name": "Jasprit Bumrah",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "MI",
+    "name": "Suryakumar Yadav",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 16.35,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "MI",
+    "name": "Hardik Pandya",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 16.35,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "MI",
+    "name": "Rohit Sharma",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 4",
+    "retention_cost_cr": 16.3,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "MI",
+    "name": "Tilak Varma",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 5",
+    "retention_cost_cr": 8.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RCB",
+    "name": "Virat Kohli",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 21.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RCB",
+    "name": "Rajat Patidar",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 11.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RCB",
+    "name": "Yash Dayal",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention",
+    "retention_cost_cr": 5.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "KKR",
+    "name": "Rinku Singh",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 13.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "KKR",
+    "name": "Varun Chakaravarthy",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 12.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "KKR",
+    "name": "Sunil Narine",
+    "role": "ALL-ROUNDER",
+    "country": "West Indies",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 12.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "KKR",
+    "name": "Andre Russell",
+    "role": "ALL-ROUNDER",
+    "country": "West Indies",
+    "retention_slab": "Retention 4",
+    "retention_cost_cr": 12.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "KKR",
+    "name": "Harshit Rana",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "KKR",
+    "name": "Ramandeep Singh",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "SRH",
+    "name": "Heinrich Klaasen",
+    "role": "WICKETKEEPER",
+    "country": "South Africa",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 23.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "SRH",
+    "name": "Pat Cummins",
+    "role": "ALL-ROUNDER",
+    "country": "Australia",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "SRH",
+    "name": "Abhishek Sharma",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 14.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "SRH",
+    "name": "Travis Head",
+    "role": "BATTER",
+    "country": "Australia",
+    "retention_slab": "Retention 4",
+    "retention_cost_cr": 14.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "SRH",
+    "name": "Nitish Kumar Reddy",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 5",
+    "retention_cost_cr": 6.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RR",
+    "name": "Sanju Samson",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RR",
+    "name": "Yashasvi Jaiswal",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RR",
+    "name": "Riyan Parag",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 14.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RR",
+    "name": "Dhruv Jurel",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "retention_slab": "Retention 4",
+    "retention_cost_cr": 14.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RR",
+    "name": "Shimron Hetmyer",
+    "role": "BATTER",
+    "country": "West Indies",
+    "retention_slab": "Retention 5",
+    "retention_cost_cr": 11.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "RR",
+    "name": "Sandeep Sharma",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "DC",
+    "name": "Axar Patel",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 16.5,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "DC",
+    "name": "Kuldeep Yadav",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 13.25,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "DC",
+    "name": "Tristan Stubbs",
+    "role": "BATTER",
+    "country": "South Africa",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 10.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "DC",
+    "name": "Abishek Porel",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "PBKS",
+    "name": "Shashank Singh",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention 1",
+    "retention_cost_cr": 5.5,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "PBKS",
+    "name": "Prabhsimran Singh",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention 2",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "GT",
+    "name": "Rashid Khan",
+    "role": "ALL-ROUNDER",
+    "country": "Afghanistan",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 18.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "GT",
+    "name": "Shubman Gill",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 16.5,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "GT",
+    "name": "Sai Sudharsan",
+    "role": "BATTER",
+    "country": "India",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 8.5,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "GT",
+    "name": "Rahul Tewatia",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention 1",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "GT",
+    "name": "Shahrukh Khan",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention 2",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "LSG",
+    "name": "Nicholas Pooran",
+    "role": "WICKETKEEPER",
+    "country": "West Indies",
+    "retention_slab": "Retention 1",
+    "retention_cost_cr": 21.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "LSG",
+    "name": "Ravi Bishnoi",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Retention 2",
+    "retention_cost_cr": 11.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "LSG",
+    "name": "Mayank Yadav",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Retention 3",
+    "retention_cost_cr": 11.0,
+    "is_uncapped": false
+  },
+  {
+    "team_id": "LSG",
+    "name": "Mohsin Khan",
+    "role": "BOWLER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention 1",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  },
+  {
+    "team_id": "LSG",
+    "name": "Ayush Badoni",
+    "role": "ALL-ROUNDER",
+    "country": "India",
+    "retention_slab": "Uncapped Retention 2",
+    "retention_cost_cr": 4.0,
+    "is_uncapped": true
+  }
+]

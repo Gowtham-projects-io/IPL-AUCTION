@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Local databases
+backend/data/*.db
+backend/data/*.sqlite
+backend/data/*.sqlite3
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
