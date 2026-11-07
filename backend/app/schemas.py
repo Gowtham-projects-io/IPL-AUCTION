@@ -198,3 +198,4 @@ class PlaceBidRequest(BaseModel):
 class HostControlRequest(BaseModel):
     action: str  # start, pause, resume, sold, unsold, next, reset
     param: Optional[str] = None
+

@@ -166,3 +166,4 @@ export const MiniAuctionSetupPage = ({ setActivePage, onCreateWithMode }) => {
     </div>
   );
 };
+

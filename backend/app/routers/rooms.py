@@ -183,3 +183,4 @@ def claim_team(room_id: str, req: ClaimTeamRequest, db: Session = Depends(get_db
     db.commit()
     db.refresh(participant)
     return {"success": True, "claimed_team_id": team.id, "username": req.username}
+

@@ -191,3 +191,4 @@ export const LiveAuctionPage = ({ room, username, claimedTeamId, onClaimTeam, on
     </div>
   );
 };
+

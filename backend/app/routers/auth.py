@@ -61,3 +61,4 @@ def guest_login(db: Session = Depends(get_db)):
 
     token = create_access_token({"sub": demo_user.username, "user_id": demo_user.id, "is_admin": demo_user.is_admin})
     return Token(access_token=token, user=UserOut.model_validate(demo_user))
+

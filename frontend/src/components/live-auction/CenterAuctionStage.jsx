@@ -78,7 +78,7 @@ export const CenterAuctionStage = ({
           <div className="relative mb-3">
             <div className="w-32 h-32 md:w-36 md:h-36 rounded-2xl bg-gradient-to-b from-teal-panel to-fjord-950 border-2 border-mint-glacier/40 p-2 overflow-hidden shadow-xl mint-glow-sm flex items-center justify-center">
               <img 
-                src={player.player_image || `https://api.dicebear.com/7.x/bottts/svg?seed=${player.name.replace(' ', '')}`} 
+                src={player.player_image || "/assets/default_player.png"} 
                 alt={player.name}
                 className="w-full h-full object-contain"
               />
@@ -194,3 +194,4 @@ export const CenterAuctionStage = ({
     </div>
   );
 };
+

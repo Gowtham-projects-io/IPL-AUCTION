@@ -235,3 +235,4 @@ export const RightBiddingPanel = ({
     </div>
   );
 };
+

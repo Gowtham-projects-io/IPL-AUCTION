@@ -143,3 +143,4 @@ with open('backend/data/teams_config.json', 'w', encoding='utf-8') as f:
     json.dump(TEAMS, f, indent=2)
 
 print("Saved teams_config.json")
+

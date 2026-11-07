@@ -221,3 +221,4 @@ export const HomePage = ({ setActivePage, onLaunchDemo }) => {
     </div>
   );
 };
+

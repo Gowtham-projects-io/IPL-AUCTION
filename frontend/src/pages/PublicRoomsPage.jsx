@@ -134,3 +134,4 @@ export const PublicRoomsPage = ({ onRoomSelect, setActivePage }) => {
     </div>
   );
 };
+

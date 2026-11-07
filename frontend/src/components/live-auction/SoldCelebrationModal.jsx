@@ -67,3 +67,4 @@ export const SoldCelebrationModal = ({ data, onClose }) => {
     </div>
   );
 };
+

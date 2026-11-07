@@ -20,3 +20,4 @@ async def main():
     print("STEP 2: after place_bid", res)
 
 asyncio.run(main())
+

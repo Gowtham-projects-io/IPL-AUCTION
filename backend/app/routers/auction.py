@@ -1,6 +1,7 @@
 from fastapi import APIRouter, WebSocket, WebSocketDisconnect, Depends, HTTPException
 from sqlalchemy.orm import Session
 from typing import Dict, Any, Optional
+import datetime
 from backend.app.database import get_db, SessionLocal
 from backend.app.schemas import PlaceBidRequest, HostControlRequest
 from backend.app.services.bidding_engine import bidding_manager
@@ -121,3 +122,4 @@ async def websocket_auction_endpoint(websocket: WebSocket, room_id: str):
         bidding_manager.disconnect(room_id, websocket)
     except Exception:
         bidding_manager.disconnect(room_id, websocket)
+

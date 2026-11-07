@@ -26,3 +26,4 @@ def get_current_season(db: Session = Depends(get_db)):
         db.commit()
         db.refresh(season)
     return SeasonOut.model_validate(season)
+

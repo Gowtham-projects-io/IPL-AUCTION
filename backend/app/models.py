@@ -155,3 +155,4 @@ class BidLog(Base):
     bid_amount_lakh = Column(Integer, nullable=False)
     bid_amount_cr = Column(Float, nullable=False)
     bid_time = Column(DateTime, default=datetime.datetime.utcnow)
+

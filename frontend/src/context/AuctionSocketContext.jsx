@@ -17,8 +17,8 @@ export const AuctionSocketProvider = ({ roomId, children }) => {
 
     const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     const host = window.location.host;
-    // In dev vite proxy, /ws will proxy or we can connect directly to 8000
-    const wsUrl = `${protocol}//${window.location.hostname}:8000/api/auction/ws/${roomId}`;
+    const port = window.location.port === '3000' ? '8000' : (window.location.port || '8000');
+    const wsUrl = `${protocol}//${window.location.hostname}:${port}/api/auction/ws/${roomId}`;
 
     const ws = new WebSocket(wsUrl);
     wsRef.current = ws;
@@ -204,3 +204,4 @@ export const AuctionSocketProvider = ({ roomId, children }) => {
 };
 
 export const useAuctionSocket = () => useContext(AuctionSocketContext);
+

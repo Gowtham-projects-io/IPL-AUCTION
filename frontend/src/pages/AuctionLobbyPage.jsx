@@ -158,3 +158,4 @@ export const AuctionLobbyPage = ({ room, username, onEnterAuction, onClaimTeam, 
     </div>
   );
 };
+

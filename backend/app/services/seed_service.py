@@ -134,3 +134,4 @@ def seed_database(db: Session):
     insert_players("backend/data/mega_players_seed.json", "mega")
     insert_players("backend/data/mini_players_seed.json", "mini")
     print("Database seeding completed successfully!")
+

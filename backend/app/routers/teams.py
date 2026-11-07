@@ -31,3 +31,4 @@ def get_team_squad_in_room(team_id: str, room_id: str, db: Session = Depends(get
         SquadMember.team_id == team_id.upper()
     ).all()
     return [SquadMemberOut.model_validate(s) for s in squad]
+

@@ -28,3 +28,4 @@ class Settings:
     MIN_PLAYER_BASE_PRICE_LAKH: int = 30
 
 settings = Settings()
+

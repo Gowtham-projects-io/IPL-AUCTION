@@ -248,3 +248,4 @@ export const TeamSquadPage = ({ currentRoomId }) => {
     </div>
   );
 };
+

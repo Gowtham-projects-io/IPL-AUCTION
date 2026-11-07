@@ -113,3 +113,4 @@ export const MegaAuctionSetupPage = ({ setActivePage, onCreateWithMode }) => {
     </div>
   );
 };
+

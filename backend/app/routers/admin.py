@@ -109,3 +109,4 @@ def reset_demo_database(db: Session = Depends(get_db)):
     # Re-seed fresh base data
     seed_database(db)
     return {"success": True, "message": "Demo database successfully reset with official IPL 2027 presets."}
+

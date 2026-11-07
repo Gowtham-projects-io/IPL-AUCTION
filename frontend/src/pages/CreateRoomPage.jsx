@@ -221,3 +221,4 @@ export const CreateRoomPage = ({ onRoomCreated, setActivePage }) => {
     </div>
   );
 };
+
